@@ -62,8 +62,7 @@ The Notes feature is accessed through the second tab in the Main Tab Bar.
 
 1. Tap the "Add" button to open the Add Note screen.
 2. Enter the title and content for the note.
-3. Optionally, tap the image area to add an image from the photo library.
-4. Save the note by tapping the "Save" button.
+3. Save the note by tapping the "Save" button.
 
 #### Editing a Note
 
